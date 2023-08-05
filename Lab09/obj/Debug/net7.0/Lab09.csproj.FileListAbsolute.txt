@@ -1,0 +1,15 @@
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.csproj.AssemblyReference.cache
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.AssemblyInfoInputs.cache
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.AssemblyInfo.cs
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\bin\Debug\net7.0\Lab09.exe
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\bin\Debug\net7.0\Lab09.deps.json
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\bin\Debug\net7.0\Lab09.runtimeconfig.json
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\bin\Debug\net7.0\Lab09.dll
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\bin\Debug\net7.0\Lab09.pdb
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.dll
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\refint\Lab09.dll
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.pdb
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\Lab09.genruntimeconfig.cache
+C:\Users\jayde\Documents\GitHub\401Lab09\Lab09\obj\Debug\net7.0\ref\Lab09.dll
